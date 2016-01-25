@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\tymko\documents\visual studio 2013\git\priorityqueue\proirityqueue\proirityqueue\source.cpp(19): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProirityQueue.vcxproj -> C:\Users\Tymko\Documents\Visual Studio 2013\Git\PriorityQueue\ProirityQueue\Debug\ProirityQueue.exe
